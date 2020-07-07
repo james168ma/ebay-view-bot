@@ -18,7 +18,7 @@ Python, Requests
 
 ## Setup
 
-- Make a file called `links.py` and edit the file with a text editor:
+- Make a file called `links.py` inside the ebay-view-bot directory and edit the file with a text editor:
 
 ```
 # links.py

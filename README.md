@@ -1,5 +1,5 @@
 # ebay-view-bot
-A bot to boost viewer count for eBay listings. Simply setup a links.py file with the links and desired view count.
+A bot to boost viewer count for eBay listings. Simply setup a `links.py` file with the links and desired view count.
 
 Forked from [washedgram/ebay-view-bot](https://github.com/washedgram/ebay-view-bot) and heavily improved upon.
 

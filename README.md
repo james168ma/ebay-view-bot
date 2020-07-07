@@ -51,6 +51,7 @@ cd <directory you ran the git clone command>
 cd ebay-view-bot
 python3 main.py
 ```
+---
 
 ### My Modifications
 - added multithreading support

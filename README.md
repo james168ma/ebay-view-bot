@@ -9,6 +9,8 @@ The simplest possible requests bot to boost ebay view count. Simply input desire
 
 ## Installation
 
+```git clone https://github.com/james168ma/ebay-view-bot.git```
+
 ## What do i need to run this?
 Python, Requests
 
@@ -17,10 +19,10 @@ Python, Requests
 
 ## Execution
 
-In CMD / Terminal:
+In Terminal:
 
 ```
-cd <directory you saved the .zip file>
-cd ebay-view-bot-master
+cd <directory you ran the git clone command>
+cd ebay-view-bot
 python3 main.py
 ```
